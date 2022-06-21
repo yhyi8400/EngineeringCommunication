@@ -81,6 +81,11 @@ Markdown Language
 누리호 성공 축하!!!! 
 
 
+2.4.2 Code Block
+------------------
+
+* <pre><code> {code} </code></pre> 이용방법
+
 <pre>
 <code>
 class Car {
@@ -100,3 +105,19 @@ class Car {
 }
 </code>
 </pre>	
+
+* " '''  {code}  ''' " 이용방법
+
+```jsx {1,4-6,11}
+import React from 'react';
+
+function MyComponent(props) {
+  if (props.isBar) {
+    return <div>Bar</div>;
+  }
+
+  return <div>Foo</div>;
+}
+
+export default MyComponent;
+```
