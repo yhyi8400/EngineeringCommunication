@@ -152,8 +152,12 @@ export default MyComponent;
 ---------------
 
 [link keyword][id]
+
 [id]: URL "Optional Title here"
+
 // examle
+
 Link: [google][googlelink]
+
 [googlelink]: https://google.co.uk "Let's Go Google"
 
