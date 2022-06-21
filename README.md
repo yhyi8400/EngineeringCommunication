@@ -25,3 +25,17 @@ Markdown Language
 >	> This is a second blockqute.
 
 >	>	> This is a third blockqute.
+
+
+2.3 List
+--------
+
+순서가 있는 목록
+
+숫자와 점을 사용
+
+1. 첫번째
+
+2. 두번째
+ 
+3. 세번째
