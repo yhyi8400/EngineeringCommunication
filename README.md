@@ -84,7 +84,7 @@ Markdown Language
 2.4.2 Code Block
 ------------------
 
-* " <pre><code>  {code}  </code></pre> " 이용방법
+* { <pre><code>  {code}  </code></pre> } 이용방법
 
 <pre>
 <code>
@@ -108,7 +108,7 @@ class Car {
 
 * "  '''  {code}  '''  " 이용방법
 
-```jsx {1,4-6,11}
+```
 import React from 'react';
 
 function MyComponent(props) {
