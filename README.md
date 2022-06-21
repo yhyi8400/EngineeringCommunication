@@ -151,9 +151,17 @@ export default MyComponent;
 2.6 Link
 ---------------
 
+* 참조 링크
+
 // examle
 
 Link: [google][googlelink]
 
 [googlelink]: https://google.co.uk "Let's Go Google"
 
+
+* 외부 링크
+
+// examle
+
+[Google](https://google.co.uk "Let's Go Google")
