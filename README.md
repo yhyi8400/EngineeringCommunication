@@ -83,10 +83,20 @@ Markdown Language
 
 <pre>
 <code>
-public class BootSpringBootApplication {
-  public static void main(String[ ] args) {
-    System.out.println("Hello, Honeymon");
-  }
+class Car {
+    private String modelName;
+    private int modelYear;
+    private String color;
+    private int maxSpeed;
+    private int currentSpeed;
+
+    Car(String modelName, int modelYear, String color, int maxSpeed) {
+        this.modelName = modelName;
+        this.modelYear = modelYear;
+        this.color = color;
+        this.maxSpeed = maxSpeed;
+        this.currentSpeed = 0;
+    }
 }
 </code>
 </pre>	
