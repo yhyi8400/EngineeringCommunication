@@ -182,14 +182,14 @@ Naver Homepage: <https://naver.com>
 
 // examle
 
-이텔릭체 *별표(asterisks)* 혹은 _언더바(underscore)_를 사용
+이텔릭체 *별표(asterisks)* 혹은 _언더바(underscore)_ 사용
 
-두껍게는 ** 별표(asterisks)* 혹은 __언더바(underscore)__를 사용
+두껍게는 **별표(asterisks)** 혹은 __언더바(underscore)__ 사용
 
 **_이텔릭체_와 두껍게**를 같이 사용할 수 있음
 
-취소선은 ~~물결표시(tilde)~~를 사용
+취소선은 ~~물결표시(tilde)~~ 를 사용
 
-밑줄을 입력하고 싶다면 <u></u> 태그를 사용
+<u>밑줄</u>을 입력하고 싶다면 '<u></u>' 태그를 사용
 
 
