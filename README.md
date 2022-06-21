@@ -120,4 +120,20 @@ function MyComponent(props) {
 }
 
 export default MyComponent;
+```js
+
+* 코드블럭 시작점("  ''' ")에  사용하는 언어를 선언하여 문법 강조 가능
+
+```
+import React from 'react';
+
+function MyComponent(props) {
+  if (props.isBar) {
+    return <div>Bar</div>;
+  }
+
+  return <div>Foo</div>;
+}
+
+export default MyComponent;
 ```
