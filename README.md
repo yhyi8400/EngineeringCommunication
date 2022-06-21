@@ -124,7 +124,7 @@ export default MyComponent;
 
 * 코드블럭 시작점("  ''' ")에  사용하는 언어를 선언하여 문법 강조 가능
 
-```js showLineNumbers
+```js 
 import React from 'react';
 
 function MyComponent(props) {
@@ -137,4 +137,14 @@ function MyComponent(props) {
 
 export default MyComponent;
 ```
+
+
+2.5 Draw Line
+---------------
+
+* * *
+***
+*****
+- - - 
+---------------
 
