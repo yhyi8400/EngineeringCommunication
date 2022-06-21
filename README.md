@@ -190,6 +190,8 @@ Naver Homepage: <https://naver.com>
 
 취소선은 ~~물결표시(tilde)~~ 를 사용
 
+<strike>취소선</strike>은 <s>stike</s> 또는 <del>del</del>를 사용하세요. 
+
 <u>밑줄</u>을 입력하고 싶다면 '<u></u>' 태그를 사용
 
 
