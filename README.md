@@ -165,3 +165,12 @@ Link: [google][googlelink]
 // examle
 
 [Google](https://google.co.uk "Let's Go Google")
+
+
+
+* 자동 링크
+
+// examle
+
+Google Homepage: https://google.co.uk 
+Naver Homepage: <https://naver.com>
