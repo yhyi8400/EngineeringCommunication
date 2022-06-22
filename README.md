@@ -192,6 +192,7 @@ Naver Homepage: <https://naver.com>
 
 <strike>취소선</strike>은 <s>stike</s> 또는 <del>del</del>를 사용하세요. 
 
+<u> Text </u>
 
 2.8 Image
 -----------
