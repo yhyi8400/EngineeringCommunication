@@ -158,7 +158,13 @@ export default MyComponent;
 -----
 
 
+5. Link
+---------------
+* 참조 링크
+// example
+Google Link: [google][googlelink]
 
+[googlelink]: https://google.co.uk "Let's Go Google"
 
 
 
