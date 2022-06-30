@@ -222,6 +222,7 @@ You can also use words, to fit your writing style more closely[^note].
     Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
+10. Table  
 
 | 값 | 의미 | 기본값 |
 |---|:---:|---:|
@@ -237,7 +238,15 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
+11. 줄바꿈  
+--------------
 
+*일반 텍스트 문장:  문장 끝에 공백 2번(스페이스 2번)하면 줄 바꿈이 됨.    
+예를 들어, 지금    
+공백 2번 만들어서 지금과 공백 사이에서 줄바꿈이 된다.  
+
+*테이블 내에서나 일반적인 경우: '<>'와 'br' 사용  
+안녕하세요. <br>반갑습니다. 줄이 바뀌었어요.
 
 
 
