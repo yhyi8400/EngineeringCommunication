@@ -192,8 +192,16 @@ Google Link: [google][googlelink]
 
 
 8. Image
+* example 1
 
 ![Street](TestImage.jpg "Oxford")
+
+* example 2
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 
 2.1 Header
 ------------
