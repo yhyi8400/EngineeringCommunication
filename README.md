@@ -71,9 +71,10 @@
 
 
 
-4. 들여쓰기
+4. Code 표현
 ---------------
 
+## 4.1 들여쓰기 이용
 2022/06/21(화) 누리호 발사 성공
 
 	e_tot=0
@@ -92,7 +93,26 @@
 누리호 성공 축하!!!! 
 
 
+## 4.2 { } 이용
+<pre>
+<code>
+class Car {
+    private String modelName;
+    private int modelYear;
+    private String color;
+    private int maxSpeed;
+    private int currentSpeed;
 
+    Car(String modelName, int modelYear, String color, int maxSpeed) {
+        this.modelName = modelName;
+        this.modelYear = modelYear;
+        this.color = color;
+        this.maxSpeed = maxSpeed;
+        this.currentSpeed = 0;
+    }
+}
+</code>
+</pre>
 
 
 
