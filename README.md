@@ -114,7 +114,22 @@ class Car {
 </code>
 </pre>
 
+## 4.3 " ' ' ' " 이용
++ Source Code 내용  
 
+```
+import React from 'react';
+
+function MyComponent(props) {
+  if (props.isBar) {
+    return <div>Bar</div>;
+  }
+
+  return <div>Foo</div>;
+}
+
+export default MyComponent;
+```
 
 2.1 Header
 ------------
