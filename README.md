@@ -156,15 +156,26 @@ export default MyComponent;
 
 *****
 -----
+   
+   
 
-
-5. Link
+6. Link
 ---------------
 * 참조 링크
+
 // example
+
 Google Link: [google][googlelink]
 
 [googlelink]: https://google.co.uk "Let's Go Google"
+
+
+* 외부링크       
+// example        
+[Google Site] (https://google.co.uk "Let's Go Google“)    
+[Naver Site] (https://naver.com "Let's Go Naver“)    
+
+
 
 
 
