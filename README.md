@@ -114,7 +114,7 @@ class Car {
 </code>
 </pre>
 
-## 4.3 " ' ' ' " 이용
+## 4.3.1 " ' ' ' " 이용
 + Source Code 내용  
 
 ```
@@ -131,7 +131,7 @@ function MyComponent(props) {
 export default MyComponent;
 ```
 
-## 4.3 " ' ' ' " 이용
+## 4.3.2 " ' ' ' " 이용
 + Source Code (JavaScript)내용 
 
 ```js
@@ -147,6 +147,22 @@ function MyComponent(props) {
 
 export default MyComponent;
 ```
+
+5. Draw Line
+---------------
+
+* * *
+-----
+
+*****
+-----
+
+
+
+
+
+
+
 
 2.1 Header
 ------------
